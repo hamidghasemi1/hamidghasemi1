@@ -11,7 +11,7 @@
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 ### 🛠 &nbsp;Tech Stack
-![AI](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
+![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=5BC3EF)&nbsp;
 
 
