@@ -7,7 +7,7 @@
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
 💼 &nbsp; Flutter developer and Laravel developer.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at haha.hamid.haha@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at haha.hamid.haha1380@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 ### 🛠 &nbsp;Tech Stack
@@ -19,7 +19,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/sgsm74">
+<a href="https://github.com/hamidghasemi1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sgsm74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sgsm74&layout=compact&langs_count=8&theme=algolia"/>
 </a>
