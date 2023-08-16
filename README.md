@@ -3,18 +3,17 @@
 ### I'm Hamid Ghasemi
 
 
-🔭 &nbsp; I’m currently working as a Flutter Developer.\
+🔭 &nbsp; I’m currently working as a AI Developer.\
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
-💼 &nbsp; Flutter developer and Laravel developer.\
+💼 &nbsp; AI developer and flutter developer.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at haha.hamid.haha1380@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
 
 ### 🛠 &nbsp;Tech Stack
+![AI](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=5BC3EF)&nbsp;
-![Swift](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=F05340)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=AEB2D5)&nbsp;
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
