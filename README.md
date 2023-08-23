@@ -3,7 +3,7 @@
 <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
-<img src="<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> "> 
+<img src="<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
