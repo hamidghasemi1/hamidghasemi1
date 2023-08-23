@@ -18,7 +18,7 @@ Community is :heart:.
 ## Things I am passionate about
 
 - AI 🧠:
-- Android(Flutter) :dart:
+- Android(Flutter) 🎯:
 - Open source :octocat:
 
 ## Get in touch :coffee:
