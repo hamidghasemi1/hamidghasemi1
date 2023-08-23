@@ -1,5 +1,6 @@
 # Hey there :wave:
 
+<img src="[https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Flifeinsurance.kz%2Fen%2Fevropa%2Fiskusstvennyy-intellekt-izmenit-mnogie-otrasli-ekonomiki-pervymi-stanut-strahovanie-medicina-i-transport-schitayut-analitiki-shveycarskogo-banka-hsbc&psig=AOvVaw1WNhsIDPFOy60MRHuHMFdE&ust=1692855876987000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCQjPiJ8oADFQAAAAAdAAAAABAJ)" alt="Hello world">
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
@@ -9,7 +10,8 @@
 
 ## About me
 
-I'm Hamid Ghasemi. A AI Developer.
+I'm Hamid Ghasemi. A computer science, Self-taught computer programmer, Deep Learning, Computer Vision Enginee.
+I am learning Flutter
 Community is :heart:.
 
 
