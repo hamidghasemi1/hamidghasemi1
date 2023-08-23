@@ -1,36 +1,44 @@
-
-### Hi there 👋
+# Hey there :wave:
 ### I'm Hamid Ghasemi
 
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-🔭 &nbsp; I’m currently working as a AI Developer.\
-🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
-💼 &nbsp; AI developer and flutter developer.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at haha.hamid.haha1380@gmail.com! I'll try to respond as soon as I can.\
-<!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->
-
-### 🛠 &nbsp;Tech Stack
-![AI](https://img.shields.io/badge/-AI-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
-![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=5BC3EF)&nbsp;
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/hamidghasemi1">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sgsm74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sgsm74&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## About me
 
-<p align="center">
-	<a href="mailto:saeed.razii93@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/sgsm74"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/sgsm74/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/sgsm74/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.twitter.com/sgsm74/"><img src="https://img.shields.io/badge/twitter-%23179AEA.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-	<a href="https://t.me/sgsm74/"><img src="https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
+I'm Sagar Viradiya. A Google Developer Expert on Android. An Android Engineer at [DeliveryHero](https://www.deliveryhero.com/) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+
+I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
+
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
+
+## Get in touch :coffee:
+
+- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
+- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+- And of course GitHub you're already on (Recursion).
+
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
