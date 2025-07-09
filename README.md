@@ -1,46 +1,45 @@
-# Hey there :wave:
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
-<img src="<https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
+# 👨‍💻 Hamid - AI Researcher (Computer Vision Enthusiast)
 
+Hello and welcome! I'm **Hamid**, an AI researcher with a strong focus on **Computer Vision** and **Image Processing**. I specialize in exploring, analyzing, and combining the latest academic research with practical coding implementations to solve real-world problems.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+---
 
-## About me
+## 🚀 About Me
 
-I'm Hamid Ghasemi. A computer science, Self-taught computer programmer, Deep Learning, Computer Vision Enginee.
-I am learning Flutter
-Community is :heart:.
+- 🧠 Passionate about artificial intelligence, especially deep learning techniques in image analysis.
+- 🧪 I often read research papers and experiment with the latest architectures in **CNNs**, **transformers**, **attention mechanisms**, and **hybrid models**.
+- 🔬 I not only reproduce state-of-the-art results but also **improve or adapt them** by mixing new ideas or modifying them based on the task at hand.
+- 🛠️ My workflow typically includes: understanding the problem deeply, benchmarking multiple research-based methods, and choosing or designing the best solution.
+- 🎯 My projects often involve medical imaging, object localization, segmentation, classification, and anomaly detection.
 
+---
 
-## Things I am passionate about
+## 💼 Tools & Technologies I Use
 
-- AI 🧠:
-- Android(Flutter) 🎯:
-- Open source :octocat:
+- 🧰 **Languages**: Python, MATLAB, occasionally C++  
+- 📚 **Frameworks**: PyTorch, TensorFlow, Keras, OpenCV  
+- 🧱 **Techniques**: Data preprocessing, Augmentation, Transfer Learning, Custom Architectures  
+- 📊 **Evaluation**: Dice Score, IoU, F1, ROC-AUC, and task-specific metrics  
 
-## Get in touch :coffee:
+---
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/hamid-ghasemi-386241247)
-- And of course GitHub you're already on (Recursion).
+## 🧭 Current Focus
 
+Currently, I am working on:
+- Improving image-based classification models for **brain MRI abnormality detection**.
+- Designing novel CNN+Attention hybrid networks to detect **fine-grained visual anomalies** in 3D medical data.
+- Exploring **semi-supervised** and **few-shot learning** techniques for better generalization on small datasets.
 
-<!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📫 Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're interested in collaboration, feel free to reach out:
+
+- 📧 Email: [your-email@example.com]
+- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 🧠 GitHub: You're already here :)
+
+---
+
+Thanks for visiting my GitHub! Stay tuned for more AI and computer vision projects 🚀
