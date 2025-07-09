@@ -16,7 +16,7 @@ Hello and welcome! I'm **Hamid**, an AI researcher with a strong focus on **Comp
 
 ## 💼 Tools & Technologies I Use
 
-- 🧰 **Languages**: Python, MATLAB, occasionally C++  
+- 🧰 **Languages**: Python, C
 - 📚 **Frameworks**: PyTorch, TensorFlow, Keras, OpenCV  
 - 🧱 **Techniques**: Data preprocessing, Augmentation, Transfer Learning, Custom Architectures  
 - 📊 **Evaluation**: Dice Score, IoU, F1, ROC-AUC, and task-specific metrics  
