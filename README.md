@@ -23,21 +23,12 @@ Hello and welcome! I'm **Hamid**, an AI researcher with a strong focus on **Comp
 
 ---
 
-## 🧭 Current Focus
-
-Currently, I am working on:
-- Improving image-based classification models for **brain MRI abnormality detection**.
-- Designing novel CNN+Attention hybrid networks to detect **fine-grained visual anomalies** in 3D medical data.
-- Exploring **semi-supervised** and **few-shot learning** techniques for better generalization on small datasets.
-
----
-
 ## 📫 Contact
 
 If you're interested in collaboration, feel free to reach out:
 
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [haha.hamid.haha@gmail.com]
+
 - 🧠 GitHub: You're already here :)
 
 ---
