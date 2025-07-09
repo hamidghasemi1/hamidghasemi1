@@ -5,7 +5,6 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> 
 <img src="<https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg">
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
