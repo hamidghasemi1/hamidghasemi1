@@ -1,6 +1,6 @@
 # Hi, I'm Hamid 👋
 
-**AI Engineer** focused on **Computer Vision, Medical AI, Signal Processing, and Edge AI**.
+**AI Engineer** focused on **Computer Vision, Edge AI, Medical AI, and Signal Processing**.
 
 I enjoy researching, evaluating, and optimizing AI models, with a strong focus on turning research ideas into practical and efficient solutions.
 
