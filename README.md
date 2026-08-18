@@ -1,36 +1,52 @@
-# 👨‍💻 Hamid - AI Researcher (Computer Vision Enthusiast)
+# Hi, I'm Hamid 👋
 
-Hello and welcome! I'm **Hamid**, an AI researcher with a strong focus on **Computer Vision** and **Image Processing**. I specialize in exploring, analyzing, and combining the latest academic research with practical coding implementations to solve real-world problems.
+**AI Engineer** focused on **Computer Vision, Medical AI, Signal Processing, and Edge AI**.
 
----
+I enjoy researching, evaluating, and optimizing AI models, with a strong focus on turning research ideas into practical and efficient solutions.
 
-## 🚀 About Me
+## Selected Projects
 
-- 🧠 Passionate about artificial intelligence, especially deep learning techniques in image analysis.
-- 🧪 I often read research papers and experiment with the latest architectures in **CNNs**, **transformers**, **attention mechanisms**, and **hybrid models**.
-- 🔬 I not only reproduce state-of-the-art results but also **improve or adapt them** by mixing new ideas or modifying them based on the task at hand.
-- 🛠️ My workflow typically includes: understanding the problem deeply, benchmarking multiple research-based methods, and choosing or designing the best solution.
-- 🎯 My projects often involve medical imaging, object localization, segmentation, classification, and anomaly detection.
+### 🧠 Intracranial Hemorrhage Analysis
 
----
+Developed an AI-based pipeline for **intracranial hemorrhage analysis and volume estimation**, with experimental integration into a **PACS environment**.
 
-## 💼 Tools & Technologies I Use
+`Medical Imaging` `Computer Vision` `Deep Learning`
 
-- 🧰 **Languages**: Python, C
-- 📚 **Frameworks**: PyTorch, TensorFlow, Keras, OpenCV  
-- 🧱 **Techniques**: Data preprocessing, Augmentation, Transfer Learning, Custom Architectures  
-- 📊 **Evaluation**: Dice Score, IoU, F1, ROC-AUC, and task-specific metrics  
+### ⚡ Image Matching on NVIDIA Jetson
 
----
+Implemented and optimized **image matching pipelines** on **NVIDIA Jetson Nano and Jetson Orin**, focusing on performance and edge deployment.
 
-## 📫 Contact
+`Edge AI` `Jetson Nano` `Jetson Orin` `OpenCV`
 
-If you're interested in collaboration, feel free to reach out:
+### ❤️ ECG P-Wave & AF Analysis
 
-- 📧 Email: [haha.hamid.haha@gmail.com]
+Developed signal processing and AI pipelines for **P-wave detection**, **P-wave feature extraction**, and **AF / Non-AF classification** from ECG signals.
 
-- 🧠 GitHub: You're already here :)
+`ECG` `Signal Processing` `Machine Learning`
 
----
+## Tech Stack
 
-Thanks for visiting my GitHub! Stay tuned for more AI and computer vision projects 🚀
+**Languages**
+Python · C
+
+**AI & Deep Learning**
+PyTorch · TensorFlow · YOLO · Detectron2 · SpeechBrain
+
+**Computer Vision & Signal Processing**
+OpenCV · Image Processing · Medical Imaging · Audio Processing · ECG Processing
+
+**Edge AI**
+NVIDIA Jetson Nano · Jetson Orin
+
+## What I Focus On
+
+* AI model research and evaluation
+* Model optimization and performance improvement
+* Computer Vision and Medical AI
+* Edge AI and hardware-aware deployment
+* Signal and image processing
+* Building practical AI solutions
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/hamidghasemi02) · [Email](haha.hamid.haha@gmail.com)
