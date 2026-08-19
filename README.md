@@ -4,6 +4,9 @@
 
 I enjoy researching, evaluating, and optimizing AI models, with a strong focus on turning research ideas into practical and efficient solutions.
 
+## My portofilo
+https://hamidghasemi1.github.io/portfolio/
+
 ## Selected Projects
 
 ### 🧠 Intracranial Hemorrhage Analysis
