@@ -5,7 +5,7 @@
 I enjoy researching, evaluating, and optimizing AI models, with a strong focus on turning research ideas into practical and efficient solutions.
 
 ## My portofilo
-https//hamid-ghasemi.ir/
+https://hamid-ghasemi.ir/
 
 ## Selected Projects
 
