@@ -52,4 +52,4 @@ NVIDIA Jetson Nano · Jetson Orin
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/hamidghasemi02) · [Email](haha.hamid.haha@gmail.com)
+[LinkedIn](www.linkedin.com/in/hamidghasemi02) · [Email](hamidghasemi0002@gmail.com)
